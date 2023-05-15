@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://foodolist.github.io/dev-docs/blog</id>
+    <title>Foodolist Development Docs Blog</title>
+    <updated>2023-05-15T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://foodolist.github.io/dev-docs/blog"/>
+    <subtitle>Foodolist Development Docs Blog</subtitle>
+    <icon>https://foodolist.github.io/dev-docs/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Foodolist development docs]]></title>
+        <id>https://foodolist.github.io/dev-docs/blog/2023/05/15/index</id>
+        <link href="https://foodolist.github.io/dev-docs/blog/2023/05/15/index"/>
+        <updated>2023-05-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Foodolist launched their development docs website for internal use and external reference.]]></summary>
+        <content type="html"><![CDATA[<p>Foodolist launched their development docs website for internal use and external reference.</p>]]></content>
+    </entry>
+</feed>
